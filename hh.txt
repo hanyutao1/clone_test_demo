@@ -1,1 +1,3 @@
 clone test !
+second insert info 
+thrid modify /n /t
